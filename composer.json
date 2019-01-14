@@ -1,6 +1,7 @@
 {
   "name": "mvs3d/laravel-redlock",
   "description": "Redis distributed locks for laravel with using PhpRedis",
+  "homepage": "https://github.com/mvs3d/laravel-redlock",
   "license": "MIT",
   "keywords": ["redlock", "laravel redis lock", "redis lock"],
   "authors": [
@@ -63,5 +64,5 @@
       "cat phpunit.*.log"
     ]
   },
-  "minimum-stability": "dev"
+  "minimum-stability": "stable"
 }
