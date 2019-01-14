@@ -64,5 +64,5 @@
       "cat phpunit.*.log"
     ]
   },
-  "minimum-stability": "stable"
+  "minimum-stability": "dev"
 }
