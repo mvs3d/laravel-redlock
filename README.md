@@ -2,11 +2,11 @@
 
 Provides a generic locking mechanism using Redis. Implements the locking standard proposed by Redis.
 
-
-
 ### Acknowledgements
 
 This library was originally built by LibiChai based on the Redlock algorithm developed by antirez. The library was reworked by the team at That's Us, Inc.
+
+**Added by mvs3d: general fork purpose -  package adaptation for PhpRedis instead of Predis. Unstable now, please don't use.**
 
 ### Installation
 
