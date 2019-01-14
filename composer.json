@@ -1,6 +1,6 @@
 {
   "name": "mvs3d/laravel-redlock",
-  "description": "Redis distributed locks for laravel",
+  "description": "Redis distributed locks for laravel with using PhpRedis",
   "license": "MIT",
   "keywords": ["redlock", "laravel redis lock", "redis lock"],
   "authors": [
